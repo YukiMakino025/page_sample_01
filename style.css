@@ -1,0 +1,35 @@
+body {
+    background-color: #68a4d9;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #f0f6da;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color:darkturquoise;
+    font-size:1.5em;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #ffb2b2;
+    color: teal;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    color:darkslategray;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : #ffb2b2;
+    color: teal;
+}
